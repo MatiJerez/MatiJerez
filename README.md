@@ -4,16 +4,6 @@
 
 I am a Skilled React.js Frontend Developer with a focus on maintainable, scalable code and industry best practices. Proficient in HTML5, CSS3 (SCSS), and modern frontend frameworks. Experienced in optimizing web application performance and usability. Adept at problem-solving and constantly learning new technologies. Delivers projects on time to high standards with strong English proficiency.
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/matias-jerez/">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="matias-jerez" height="30" />
-  </a>
-  <!-- ADD GMAIL -->
-  <a href="matiasjerezcontacto@gmail.com">
-   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" alt="Email matias jerez" height="35"/>
-   </a>
-</p>
 
 ---
 
